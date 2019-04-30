@@ -1,4 +1,5 @@
 title: Vanderbilt Scalable Computing Laboratory
 logo: https://raw.githubusercontent.com/vanderbiltscl/vanderbiltscl.github.io/master/media/logo.jpg
-description: HPC related grants and conferences [SCL website](http://scl.vuse.vanderbilt.edu/)
-theme: jekyll-theme-minimal
+description: HPC related grants and conferences
+link: http://scl.vuse.vanderbilt.edu/
+theme: minimal-mistakes-jekyll
