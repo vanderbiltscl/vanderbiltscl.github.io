@@ -65,6 +65,7 @@ Deadline last year: `January 17, 2019`.
 Deadline: `January 9, 2020` (letter of intent 12 November 2019).
 [Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=12810&ods_key=nsf19512)
 
+The program drives discovery and learning in the core CISE disciplines by funding the creation and enhancement of world-class research infrastructure. This support involves developing the accompanying user services and engagement needed to attract, nurture, and grow a robust research community that is actively involved in determining directions for the infrastructure as well as management of the infrastructure.
 
 **Collaborative Research in Computational Neuroscience  (CRCNS)**
 
