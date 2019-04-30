@@ -1,15 +1,40 @@
 ## Grants
 
-**NSF Scalable Parallelism in the Extreme  (SPX)**
+**Computer and Network Systems (CNS): Core Programs**
 
-Not out yet.
-Deadline last year: January 17, 2019
+Deadline: 
+ * MEDIUM projects: `September 16, 2019`
+ * LARGE projects: `September 25, 2019`
+ * SMALL projects: `November 14, 2019`
+ 
+ [Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=505574&ods_key=nsf18569)
+
+
+**Computing and Communication Foundations (CCF): Core Programs**
+ * MEDIUM projects: `September 16, 2019`
+ * SMALL projects: `November 14, 2019`
+
+ [Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=503220&ods_key=nsf18568)
+
+
+**Information and Intelligent Systems (IIS): Core Programs**
+Deadline: 
+ * MEDIUM projects: `September 16, 2019`
+ * LARGE projects: `September 25, 2019`
+ * SMALL projects: `November 14, 2019`
+ 
+[Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=13707&ods_key=nsf18570)
+
+
+**Office of Advanced Cyberinfrastructure (OAC): Research Core Program**
+
+Deadline: `November 14, 2019` (only SMALL).
+[Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=505571&ods_key=nsf18567)
 
 
 **NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI)**
 
-Deadline: November 1, 2019
-
+Deadline: `November 1, 2019`
 [Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=505505&ods_key=nsf19548)
 
 Elements: These awards target small groups that will create and deploy robust services for which there is a demonstrated need that will advance one or more significant areas of science and engineering.
@@ -19,14 +44,26 @@ Framework Implementations: These awards target larger, interdisciplinary teams o
 
 **NSF Computational and Data-Enabled Science and Engineering  (CDS&E)**
 
-Deadline: Depending on where to submit between Sept 1st - Oct 15 2019
-
+Deadline: Depending on where to submit between `Sept 1st - Oct 15 2019`
 [Link to NSF call](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504813)
 
 Advanced computational infrastructure and the ability to perform large-scale simulations and accumulate massive amounts of data have revolutionized scientific and engineering disciplines.  The goal of the CDS&E program is to identify and capitalize on opportunities for major scientific and engineering breakthroughs through new computational and data analysis approaches.  The intellectual drivers may be in an individual discipline or they may cut across more than one discipline in various Directorates.  The key identifying factor is that the outcome relies on the development, adaptation, and utilization of one or more of the capabilities offered by advancement of both research and infrastructure in computation and data, either through cross-cutting or disciplinary programs.
 
 
+---
+**CISE Community Research Infrastructure  (CCRI)**
 
+Deadline: `January 9, 2020` (letter of intent 12 November 2019)
+[Link to NSF call](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=12810&ods_key=nsf19512)
+
+
+**NSF Scalable Parallelism in the Extreme  (SPX)**
+
+Not out yet.
+Deadline last year: `January 17, 2019`
+[Link to NSF call](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505348&org=CISE&sel_org=CISE&from=fund)
+
+---
 ## Conferences
 
 SC:
