@@ -65,8 +65,12 @@ Computational neuroscience provides a theoretical foundation and a rich set of t
 ---
 ## Conferences
 
+Cluster:
+September 24 - 27, 2019
+Deadline: May 17, 2019 (Abstract 10)
+
 SC:
-17-22 November 2019
+November 17-22, 2019
 Deadline: 10 April 2019
 
 IPDPS:
