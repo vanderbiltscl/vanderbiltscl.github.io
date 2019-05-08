@@ -19,7 +19,7 @@ Framework Implementations: These awards target larger, interdisciplinary teams o
 
 **Collaborative Research in Computational Neuroscience  (CRCNS)** ([Link](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=5147&ods_key=nsf18591))
 
-Deadline: November 25, 2019
+Deadline: `November 25, 2019`
 
 Computational neuroscience provides a theoretical foundation and a rich set of technical approaches for understanding complex neurobiological systems, building on the theory, methods, and findings of computer science, neuroscience, and numerous other disciplines.
 
