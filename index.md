@@ -9,7 +9,9 @@
 The Software and Hardware Foundations (SHF) program supports potentially transformative research in the design, verification, operation, utilization, and evaluation of computer hardware and software through novel approaches, robust theories, high-leverage tools, and lasting principles. Such advances may offer formal methods, languages, logic, novel software and/or hardware artifacts, or algorithms to enable new or enhanced functionality, verification, usability, and scale.
 
 
-**NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI)** ([Link](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=505505&ods_key=nsf19548))
+**NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI)** 
+
+([Link](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=505505&ods_key=nsf19548))
 
 Deadline: `November 1, 2019`
 
