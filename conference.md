@@ -2,7 +2,7 @@
 
 ## Conferences
 
-`January - February`
+### `January - February`
 
 **HPDC**: deadlines mid-late January, held in June/July
   - *Next conference*: N/A
@@ -14,7 +14,7 @@
   - *Next conference*: 24-28 August 2020 Warsaw, Poland. Deadline 31 January (28 abstract)
 
 
-`March - May`
+### `March - May`
 
 **SC**: deadlines early April, held in November
   - *Next conference*: November 17-22, 2019, Denver. Deadline: 10 April 2019
@@ -26,7 +26,7 @@
   - *Next conference*: September 14-17, 2020, Kobe, Japan. Deadline: May 10 (abstract 3)
 
 
-`June - August`
+### `June - August`
 
 **POPL**: dealines mid July, held in January
   - *Next conference*: 19 - 25 January 2020, New Orleans, Louisiana, United States. Deadline: 10 Jul 2019
@@ -35,13 +35,13 @@
   - *Next conference*: 22 - 26 February 2020 
 
 
-`September - October`
+### `September - October`
 
 **IPDPS**: deadlines mid October, held in May
   - *Next conference*: May 18 - 22, 2020, New Orleans, Louisiana. Deadline: Oct 14, 2019 (abstract 7)
 
 
-`November - December`
+### `November - December`
 
 **DSN** Dependable Systems and Networks: deadlines end November/early December, held in June/July
   - *Next conference*: Jun 29 - Jul 2, 2020, Valencia, Spain. Deadline: December 13 (abstract 3)
