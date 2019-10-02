@@ -71,13 +71,18 @@ The program drives discovery and learning in the core CISE disciplines by fundin
 ---
 ## Conferences
 
-Cluster:
-September 24 - 27, 2019
-Deadline: May 17, 2019 (Abstract 10)
+`January - March`
 
-SC:
-November 17-22, 2019
-Deadline: 10 April 2019
+
+`April - May`
+
+**SC**: deadlines early April, held in November
+  - *Next conference*: November 17-22, 2019, Denver. Deadline: 10 April 2019
+
+**Cluster**: deadlines mid May, held in September
+  - *Next conference*: September 14-17, 2020, Kobe, Japan. Deadline: May 10 (abstract 3)
+
+
 
 IPDPS:
 May 20-24, 2019
@@ -103,5 +108,6 @@ POPL:
 19 - 25 January 2020
 Deadline: 10 Jul 2019
 
-
-
+PPOPP:
+22 - 26 February 2020
+Deadline: end of July, early August
