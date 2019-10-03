@@ -50,3 +50,6 @@
 
 **DSN** Dependable Systems and Networks: deadlines end November/early December, held in June/July
   - *Next conference*: Jun 29 - Jul 2, 2020, Valencia, Spain. Deadline: December 13 (abstract 3)
+
+**CCGrid** deadlines mid December, held in May
+  - *Next conference*: May 11 - 14, 2020, Melbourne, Australia. Deadline: Dec 10, 2019
