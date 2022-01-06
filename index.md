@@ -14,3 +14,10 @@
 | [ICPP](https://icpp22.gitlabpages.inria.fr/)       | Bordeaux | Aug 29 - Sep 01, 2022 |	April 8, 2022	 | April 14, 2022 |
 | [ISPDC](https://ispdc2022.dmi.unibas.ch/home/author-area/paper-submission/)      | Basel, Switzerland |	Jul 11 - 13, 2022 |	April 16, 2022 |	April 23, 2022 |
 | [Cluster](https://www.computer.org/cfp/cluster-2022) | Heidelberg | Sept 6 - 9, 2022 | - | May 13, 2022 |
+
+
+## Useful links
+
+[HPC conference and journal rankings](http://spcl.inf.ethz.ch/Publications/Ranking/)
+
+[Acceptance rates](https://sites.cs.ucsb.edu/~almeroth/conf/stats/)
